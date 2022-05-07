@@ -1,0 +1,23 @@
+{
+  "greeting": "你好呀，",
+  "name": "誉洁！",
+  "greetingText": "第一次听到就觉得你的名字很好听呢。",
+  "wishText": "希望你每天都可以开开心心的! ;)",
+  "imagePath": "img/yujie.jpg",
+  "text1": "今天，是你的生日!!! :D",
+  "textInChatBox": "生日快乐呀!! 新的一年我们要开启新的旅程啦！ ",
+  "sendButtonLabel": "Send",
+  "text2": "疫情隔离的这段时间很难过吧。",
+  "text3": "但是我们在一起一定可以渡过这段时间的！",
+  "text4": "I don't have anything that must do, but now I want to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "送给我最爱的小可爱！",
+  "replayText": "或者点击以重来。",
+  "outroSmiley": ":)"
+}
